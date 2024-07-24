@@ -1,0 +1,223 @@
+﻿{"CreateTime":"2024-05-15T09:03:08.5852355+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"RetryUploadTemperatureData Begin：/api/RunCardOverNew/SaveRunCardOverBakeList?postData={\"BatchID\":\"5FAD4E6F-5DF1-4A9C-ADF4-28494643C64A\",\"TemperatureValue\":20.2,\"UploadTime\":\"2024-05-10 18:20:24\",\"WorkState\":1}"}
+{"CreateTime":"2024-05-15T09:03:08.5857821+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"Start processing HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%225FAD4E6F-5DF1-4A9C-ADF4-28494643C64A%22,%22TemperatureValue%22:20.2,%22UploadTime%22:%222024-05-10%2018:20:24%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:03:08.5865189+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Sending HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%225FAD4E6F-5DF1-4A9C-ADF4-28494643C64A%22,%22TemperatureValue%22:20.2,%22UploadTime%22:%222024-05-10%2018:20:24%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:03:08.6019655+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Received HTTP response headers after 15.0573ms - 200"}
+{"CreateTime":"2024-05-15T09:03:08.6026423+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"End processing HTTP request after 16.8736ms - 200"}
+{"CreateTime":"2024-05-15T09:03:08.6031962+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"RetryUploadTemperatureData End：{\"state\":1,\"message\":\"OK\",\"data\":null}"}
+{"CreateTime":"2024-05-15T09:03:08.8041553+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"RetryUploadTemperatureData Begin：/api/RunCardOverNew/SaveRunCardOverBakeList?postData={\"BatchID\":\"85270A4A-202F-4C84-8676-49FF381BB006\",\"TemperatureValue\":49.6,\"UploadTime\":\"2024-05-10 18:20:24\",\"WorkState\":1}"}
+{"CreateTime":"2024-05-15T09:03:08.8045896+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"Start processing HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-10%2018:20:24%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:03:08.8049236+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Sending HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-10%2018:20:24%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:03:08.891406+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Received HTTP response headers after 86.1488ms - 200"}
+{"CreateTime":"2024-05-15T09:03:08.8919958+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"End processing HTTP request after 87.4535ms - 200"}
+{"CreateTime":"2024-05-15T09:03:08.8923809+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"RetryUploadTemperatureData End：{\"state\":1,\"message\":\"OK\",\"data\":null}"}
+{"CreateTime":"2024-05-15T09:03:18.3748873+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:03:18.3754325+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:03:28.3872192+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:03:28.3877936+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:03:38.3878913+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:03:38.3885144+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:03:48.3869318+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:03:48.3874704+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:40:34.2561591+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"RetryUploadTemperatureData Begin：/api/RunCardOverNew/SaveRunCardOverBakeList?postData={\"BatchID\":\"85270A4A-202F-4C84-8676-49FF381BB006\",\"TemperatureValue\":49.6,\"UploadTime\":\"2024-05-15 09:39:14\",\"WorkState\":1}"}
+{"CreateTime":"2024-05-15T09:40:34.2650131+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"Start processing HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-15%2009:39:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:40:34.2654392+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Sending HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-15%2009:39:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:40:34.2802162+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Received HTTP response headers after 14.4415ms - 200"}
+{"CreateTime":"2024-05-15T09:40:34.2810035+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"End processing HTTP request after 15.9962ms - 200"}
+{"CreateTime":"2024-05-15T09:40:34.2814798+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"RetryUploadTemperatureData End：{\"state\":1,\"message\":\"OK\",\"data\":null}"}
+{"CreateTime":"2024-05-15T09:40:44.0472319+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:40:44.047"}
+{"CreateTime":"2024-05-15T09:40:44.0478372+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:40:44.047"}
+{"CreateTime":"2024-05-15T09:40:44.0481565+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:40:44.0484445+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:40:54.0466891+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:40:54.046"}
+{"CreateTime":"2024-05-15T09:40:54.0474122+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:40:54.047"}
+{"CreateTime":"2024-05-15T09:40:54.0477677+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:40:54.0480612+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:41:04.0513031+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:41:04.051"}
+{"CreateTime":"2024-05-15T09:41:04.0518976+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:41:04.051"}
+{"CreateTime":"2024-05-15T09:41:04.0522241+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:41:04.0525558+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:41:14.0473505+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:41:14.047"}
+{"CreateTime":"2024-05-15T09:41:14.0479319+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:41:14.047"}
+{"CreateTime":"2024-05-15T09:41:14.0482761+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:41:14.0486025+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:41:24.0475031+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:41:24.047"}
+{"CreateTime":"2024-05-15T09:41:24.0480829+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:41:24.048"}
+{"CreateTime":"2024-05-15T09:41:24.0484081+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:41:24.0487007+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:41:34.0496171+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:41:34.049"}
+{"CreateTime":"2024-05-15T09:41:34.0501814+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:41:34.050"}
+{"CreateTime":"2024-05-15T09:41:34.0504889+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:41:34.0508026+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:41:44.047882+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:41:44.047"}
+{"CreateTime":"2024-05-15T09:41:44.0484722+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:41:44.048"}
+{"CreateTime":"2024-05-15T09:41:44.0488456+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:41:44.049362+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:41:54.045674+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:41:54.045"}
+{"CreateTime":"2024-05-15T09:41:54.046332+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:41:54.046"}
+{"CreateTime":"2024-05-15T09:41:54.0467018+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:41:54.0470562+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:42:04.0532763+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:42:04.053"}
+{"CreateTime":"2024-05-15T09:42:04.0538434+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:42:04.053"}
+{"CreateTime":"2024-05-15T09:42:04.0542072+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:42:04.0545663+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:42:14.0462653+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:42:14.046"}
+{"CreateTime":"2024-05-15T09:42:14.0468258+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:42:14.046"}
+{"CreateTime":"2024-05-15T09:42:14.0471741+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:42:14.0475033+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱门:OVEN09关闭，上传温度数据中，BatchID=5FAD4E6F-5DF1-4A9C-ADF4-28494643C64A, DateTime=:2024-05-15 09:42:14.047, TemperatureValue=20.2"}
+{"CreateTime":"2024-05-15T09:42:14.0478079+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"UploadTemplateData Begin：/api/RunCardOverNew/SaveRunCardOverBakeList?postData={\"BatchID\":\"5FAD4E6F-5DF1-4A9C-ADF4-28494643C64A\",\"TemperatureValue\":20.2,\"UploadTime\":\"2024-05-15 09:42:14\",\"WorkState\":1}"}
+{"CreateTime":"2024-05-15T09:42:14.0481993+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"Start processing HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%225FAD4E6F-5DF1-4A9C-ADF4-28494643C64A%22,%22TemperatureValue%22:20.2,%22UploadTime%22:%222024-05-15%2009:42:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:42:14.0485335+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Sending HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%225FAD4E6F-5DF1-4A9C-ADF4-28494643C64A%22,%22TemperatureValue%22:20.2,%22UploadTime%22:%222024-05-15%2009:42:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:42:14.0492357+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:42:14.0496361+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱门:OVEN01-02关闭，上传温度数据中，BatchID=85270A4A-202F-4C84-8676-49FF381BB006, DateTime=:2024-05-15 09:42:14.049, TemperatureValue=49.6"}
+{"CreateTime":"2024-05-15T09:42:14.0499491+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"UploadTemplateData Begin：/api/RunCardOverNew/SaveRunCardOverBakeList?postData={\"BatchID\":\"85270A4A-202F-4C84-8676-49FF381BB006\",\"TemperatureValue\":49.6,\"UploadTime\":\"2024-05-15 09:42:14\",\"WorkState\":1}"}
+{"CreateTime":"2024-05-15T09:42:14.0502648+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"Start processing HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-15%2009:42:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:42:14.0506017+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Sending HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-15%2009:42:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:42:14.0761887+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Received HTTP response headers after 27.3203ms - 200"}
+{"CreateTime":"2024-05-15T09:42:14.0769029+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"End processing HTTP request after 28.6966ms - 200"}
+{"CreateTime":"2024-05-15T09:42:14.0775206+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"UploadTemplateData End：{\"state\":1,\"message\":\"OK\",\"data\":null}"}
+{"CreateTime":"2024-05-15T09:42:14.0778392+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Error","Content":"UploadTemplateData Error:网络错误，上传异常：An error occurred while writing to logger(s). (The process cannot access the file 'E:\\VS2019\\Projects\\TempModbusNet\\TempModbusNet\\bin\\Debug\\net6.0\\Uploads\\bak\\Log20240515.log' because it is being used by another process.)\n   at TempModbusNet.Helper.HttpClientHelper.HttpGetAsync(String url, String contentType, Dictionary`2 headers) in E:\\VS2019\\Projects\\TempModbusNet\\TempModbusNet\\Helper\\HttpClientHelper.cs:line 166\r\n   at TempModbusNet.Helper.TemplateDataExchange.UploadTemplateData(TemperatureDataEntity template) in E:\\VS2019\\Projects\\TempModbusNet\\TempModbusNet\\Helper\\TemplateDataExchange.cs:line 69"}
+{"CreateTime":"2024-05-15T09:42:14.078241+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"UploadTemplateData Save to bak file：{\"BatchID\":\"85270A4A-202F-4C84-8676-49FF381BB006\",\"TemperatureValue\":49.6,\"UploadTime\":\"2024-05-15 09:42:14\",\"WorkState\":1}"}
+{"CreateTime":"2024-05-15T09:45:34.2990362+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"RetryUploadTemperatureData Begin：/api/RunCardOverNew/SaveRunCardOverBakeList?postData={\"BatchID\":\"85270A4A-202F-4C84-8676-49FF381BB006\",\"TemperatureValue\":49.6,\"UploadTime\":\"2024-05-15 09:42:14\",\"WorkState\":1}"}
+{"CreateTime":"2024-05-15T09:45:34.2995047+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"Start processing HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-15%2009:42:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:45:34.2998598+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Sending HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-15%2009:42:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:45:34.3630241+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Received HTTP response headers after 62.841ms - 200"}
+{"CreateTime":"2024-05-15T09:45:34.3636244+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"End processing HTTP request after 64.1218ms - 200"}
+{"CreateTime":"2024-05-15T09:45:34.364019+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"RetryUploadTemperatureData End：{\"state\":1,\"message\":\"OK\",\"data\":null}"}
+{"CreateTime":"2024-05-15T09:45:44.0472227+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:45:44.047"}
+{"CreateTime":"2024-05-15T09:45:44.0477547+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:45:44.047"}
+{"CreateTime":"2024-05-15T09:45:44.0481349+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:45:44.0484523+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:45:54.0520222+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:45:54.051"}
+{"CreateTime":"2024-05-15T09:45:54.0526922+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:45:54.052"}
+{"CreateTime":"2024-05-15T09:45:54.0530478+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:45:54.0534037+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:46:04.0457045+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:46:04.045"}
+{"CreateTime":"2024-05-15T09:46:04.0462142+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:46:04.046"}
+{"CreateTime":"2024-05-15T09:46:04.0465463+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:46:04.0468729+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:46:14.0498604+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:46:14.049"}
+{"CreateTime":"2024-05-15T09:46:14.0503828+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:46:14.050"}
+{"CreateTime":"2024-05-15T09:46:14.0507137+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:46:14.0510689+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:46:24.0431927+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:46:24.043"}
+{"CreateTime":"2024-05-15T09:46:24.043943+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:46:24.043"}
+{"CreateTime":"2024-05-15T09:46:24.0443189+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:46:24.0446643+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:46:34.0546768+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:46:34.054"}
+{"CreateTime":"2024-05-15T09:46:34.0552515+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:46:34.055"}
+{"CreateTime":"2024-05-15T09:46:34.0556231+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:46:34.0559591+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:46:44.0435554+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:46:44.043"}
+{"CreateTime":"2024-05-15T09:46:44.0442555+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:46:44.044"}
+{"CreateTime":"2024-05-15T09:46:44.0446495+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:46:44.0450081+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:46:54.0465602+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:46:54.046"}
+{"CreateTime":"2024-05-15T09:46:54.0471402+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:46:54.047"}
+{"CreateTime":"2024-05-15T09:46:54.0474334+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:46:54.0477306+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:47:04.050794+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:47:04.050"}
+{"CreateTime":"2024-05-15T09:47:04.0514143+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:47:04.051"}
+{"CreateTime":"2024-05-15T09:47:04.0517889+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:47:04.0520952+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:47:14.0442207+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:47:14.044"}
+{"CreateTime":"2024-05-15T09:47:14.0447905+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:47:14.044"}
+{"CreateTime":"2024-05-15T09:47:14.0451771+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:47:14.0456693+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:47:24.0535553+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:47:24.053"}
+{"CreateTime":"2024-05-15T09:47:24.054156+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:47:24.054"}
+{"CreateTime":"2024-05-15T09:47:24.0545284+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:47:24.0548626+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:47:34.0436868+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:47:34.043"}
+{"CreateTime":"2024-05-15T09:47:34.0443082+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:47:34.044"}
+{"CreateTime":"2024-05-15T09:47:34.0446972+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:47:34.0451702+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:47:44.0474569+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:47:44.047"}
+{"CreateTime":"2024-05-15T09:47:44.0480787+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:47:44.048"}
+{"CreateTime":"2024-05-15T09:47:44.0484329+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:47:44.0487367+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:47:54.0506653+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:47:54.050"}
+{"CreateTime":"2024-05-15T09:47:54.0513796+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:47:54.051"}
+{"CreateTime":"2024-05-15T09:47:54.0518313+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:47:54.0521554+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:48:04.0470874+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:48:04.047"}
+{"CreateTime":"2024-05-15T09:48:04.0476725+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:48:04.047"}
+{"CreateTime":"2024-05-15T09:48:04.0480087+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:48:04.0482965+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:48:14.0506217+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:48:14.050"}
+{"CreateTime":"2024-05-15T09:48:14.0512259+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:48:14.051"}
+{"CreateTime":"2024-05-15T09:48:14.051632+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:48:14.0519678+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱门:OVEN09关闭，上传温度数据中，BatchID=5FAD4E6F-5DF1-4A9C-ADF4-28494643C64A, DateTime=:2024-05-15 09:48:14.051, TemperatureValue=20.2"}
+{"CreateTime":"2024-05-15T09:48:14.052299+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"UploadTemplateData Begin：/api/RunCardOverNew/SaveRunCardOverBakeList?postData={\"BatchID\":\"5FAD4E6F-5DF1-4A9C-ADF4-28494643C64A\",\"TemperatureValue\":20.2,\"UploadTime\":\"2024-05-15 09:48:14\",\"WorkState\":1}"}
+{"CreateTime":"2024-05-15T09:48:14.0527017+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"Start processing HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%225FAD4E6F-5DF1-4A9C-ADF4-28494643C64A%22,%22TemperatureValue%22:20.2,%22UploadTime%22:%222024-05-15%2009:48:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:48:14.0530645+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Sending HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%225FAD4E6F-5DF1-4A9C-ADF4-28494643C64A%22,%22TemperatureValue%22:20.2,%22UploadTime%22:%222024-05-15%2009:48:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:48:14.0537318+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:48:14.0541983+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱门:OVEN01-02关闭，上传温度数据中，BatchID=85270A4A-202F-4C84-8676-49FF381BB006, DateTime=:2024-05-15 09:48:14.054, TemperatureValue=49.6"}
+{"CreateTime":"2024-05-15T09:48:14.0545242+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"UploadTemplateData Begin：/api/RunCardOverNew/SaveRunCardOverBakeList?postData={\"BatchID\":\"85270A4A-202F-4C84-8676-49FF381BB006\",\"TemperatureValue\":49.6,\"UploadTime\":\"2024-05-15 09:48:14\",\"WorkState\":1}"}
+{"CreateTime":"2024-05-15T09:48:14.054948+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"Start processing HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-15%2009:48:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:48:14.0552919+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Sending HTTP request GET http://192.168.13.12:92/api/RunCardOverNew/SaveRunCardOverBakeList?postData=%7B%22BatchID%22:%2285270A4A-202F-4C84-8676-49FF381BB006%22,%22TemperatureValue%22:49.6,%22UploadTime%22:%222024-05-15%2009:48:14%22,%22WorkState%22:1%7D"}
+{"CreateTime":"2024-05-15T09:48:14.0750421+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Received HTTP response headers after 21.6162ms - 200"}
+{"CreateTime":"2024-05-15T09:48:14.0757196+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"End processing HTTP request after 23.0202ms - 200"}
+{"CreateTime":"2024-05-15T09:48:14.0761455+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"UploadTemplateData End：{\"state\":1,\"message\":\"OK\",\"data\":null}"}
+{"CreateTime":"2024-05-15T09:48:14.1445982+08:00","Category":"System.Net.Http.HttpClient.RetryClient.ClientHandler","Level":"Information","Content":"Received HTTP response headers after 88.9449ms - 200"}
+{"CreateTime":"2024-05-15T09:48:14.1451953+08:00","Category":"System.Net.Http.HttpClient.RetryClient.LogicalHandler","Level":"Information","Content":"End processing HTTP request after 90.2586ms - 200"}
+{"CreateTime":"2024-05-15T09:48:14.1456116+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"UploadTemplateData End：{\"state\":1,\"message\":\"OK\",\"data\":null}"}
+{"CreateTime":"2024-05-15T09:48:24.0431929+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:48:24.043"}
+{"CreateTime":"2024-05-15T09:48:24.0437068+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:48:24.043"}
+{"CreateTime":"2024-05-15T09:48:24.0441083+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:48:24.0444173+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:48:34.0482944+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:48:34.048"}
+{"CreateTime":"2024-05-15T09:48:34.0488838+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:48:34.048"}
+{"CreateTime":"2024-05-15T09:48:34.0493898+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:48:34.0497053+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:48:44.05026+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:48:44.050"}
+{"CreateTime":"2024-05-15T09:48:44.0508386+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:48:44.050"}
+{"CreateTime":"2024-05-15T09:48:44.0512244+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:48:44.0515287+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:48:54.0478768+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:48:54.047"}
+{"CreateTime":"2024-05-15T09:48:54.0484554+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:48:54.048"}
+{"CreateTime":"2024-05-15T09:48:54.048806+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:48:54.0491316+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:49:04.0458263+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:49:04.045"}
+{"CreateTime":"2024-05-15T09:49:04.0463925+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:49:04.046"}
+{"CreateTime":"2024-05-15T09:49:04.0467078+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:49:04.0469951+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:49:14.0514485+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:49:14.051"}
+{"CreateTime":"2024-05-15T09:49:14.0520201+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:49:14.052"}
+{"CreateTime":"2024-05-15T09:49:14.0523932+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:49:14.0527171+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:49:24.0469934+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:49:24.046"}
+{"CreateTime":"2024-05-15T09:49:24.0475533+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:49:24.047"}
+{"CreateTime":"2024-05-15T09:49:24.0479058+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:49:24.0482588+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:49:34.0470347+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:49:34.047"}
+{"CreateTime":"2024-05-15T09:49:34.0476361+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:49:34.047"}
+{"CreateTime":"2024-05-15T09:49:34.0479544+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:49:34.0482479+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:49:44.050612+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:49:44.050"}
+{"CreateTime":"2024-05-15T09:49:44.0512434+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:49:44.051"}
+{"CreateTime":"2024-05-15T09:49:44.0515721+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:49:44.0518952+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:49:54.0462134+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:49:54.046"}
+{"CreateTime":"2024-05-15T09:49:54.046699+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:49:54.046"}
+{"CreateTime":"2024-05-15T09:49:54.047028+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:49:54.0473384+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:50:04.0520978+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:50:04.052"}
+{"CreateTime":"2024-05-15T09:50:04.0526491+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:50:04.052"}
+{"CreateTime":"2024-05-15T09:50:04.0529604+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:50:04.0532663+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:50:14.0460405+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:50:14.046"}
+{"CreateTime":"2024-05-15T09:50:14.0465311+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:50:14.046"}
+{"CreateTime":"2024-05-15T09:50:14.0468504+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:50:14.0472022+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:50:24.049264+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:50:24.049"}
+{"CreateTime":"2024-05-15T09:50:24.0498009+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:50:24.049"}
+{"CreateTime":"2024-05-15T09:50:24.0501982+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:50:24.0506607+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:50:34.0488734+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:50:34.048"}
+{"CreateTime":"2024-05-15T09:50:34.0494326+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:50:34.049"}
+{"CreateTime":"2024-05-15T09:50:34.0497711+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:50:34.0501967+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}
+{"CreateTime":"2024-05-15T09:50:44.0436697+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取温度数据2024-05-15 09:50:44.043"}
+{"CreateTime":"2024-05-15T09:50:44.0442554+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"读取开关数据2024-05-15 09:50:44.044"}
+{"CreateTime":"2024-05-15T09:50:44.044601+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN09关闭，温度:20.2"}
+{"CreateTime":"2024-05-15T09:50:44.044893+08:00","Category":"TempModbusNet.Service.TemperatureService","Level":"Information","Content":"烤箱:OVEN01-02关闭，温度:49.6"}

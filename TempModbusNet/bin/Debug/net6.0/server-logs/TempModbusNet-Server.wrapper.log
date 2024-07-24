@@ -1,0 +1,23 @@
+2024-04-27 10:24:19,852 DEBUG - Starting WinSW in service mode
+2024-04-27 10:26:37,219 DEBUG - Starting WinSW in console mode
+2024-04-27 10:26:40,505 DEBUG - Starting WinSW in console mode
+2024-04-27 10:26:40,539 INFO  - Installing service 'tempmodbusnet (tempmodbusnet)'...
+2024-04-27 10:26:40,599 INFO  - Service 'tempmodbusnet (tempmodbusnet)' was installed successfully.
+2024-04-27 10:27:09,148 DEBUG - Starting WinSW in service mode
+2024-04-27 10:27:09,285 INFO  - Starting E:\VS2019\Projects\TempModbusNet\TempModbusNet\bin\Debug\net6.0\TempModbusNet.exe 
+2024-04-27 10:27:09,467 INFO  - Started process 37772
+2024-04-27 10:27:09,483 DEBUG - Forwarding logs of the process System.Diagnostics.Process (TempModbusNet) to WinSW.RollingLogAppender
+2024-04-27 10:53:03,268 INFO  - Stopping tempmodbusnet
+2024-04-27 10:53:03,269 DEBUG - ProcessKill 37772
+2024-04-27 10:53:03,271 DEBUG - Stopping process 37772...
+2024-04-27 10:53:03,331 DEBUG - Process 37772 canceled with code 0.
+2024-04-27 10:53:03,334 INFO  - Finished tempmodbusnet
+2024-05-06 08:29:17,122 DEBUG - Starting WinSW in service mode
+2024-05-06 08:29:17,307 INFO  - Starting E:\VS2019\Projects\TempModbusNet\TempModbusNet\bin\Debug\net6.0\TempModbusNet.exe 
+2024-05-06 08:29:17,404 INFO  - Started process 7836
+2024-05-06 08:29:17,416 DEBUG - Forwarding logs of the process System.Diagnostics.Process (TempModbusNet) to WinSW.RollingLogAppender
+2024-05-07 12:35:19,298 INFO  - Stopping tempmodbusnet
+2024-05-07 12:35:19,328 DEBUG - ProcessKill 7836
+2024-05-07 12:35:19,349 DEBUG - Stopping process 7836...
+2024-05-07 12:35:19,376 DEBUG - Process 7836 canceled with code -1073741510.
+2024-05-07 12:35:19,455 INFO  - Finished tempmodbusnet
